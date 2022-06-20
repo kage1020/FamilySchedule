@@ -57,7 +57,7 @@ function push() {
 
 function groupPush() {
   try {
-    const groupList = ["C9e323de29c669e8bcaf8438abb708f81"];
+    const groupList = ["DEVELOPER LIST"];
     const today = new Date();
     const weekday = today.getDay();
     let text;
